@@ -23,8 +23,8 @@ Extract the dataset and place it in the appropriate directory within the project
 ### 3. Train and Evaluate Models
 Run the provided Python scripts to train and evaluate the various machine learning models. This step will involve preprocessing the dataset, training the models, and evaluating their performance.
 
-###6. Test the Extension
+### 4. Test the Extension
 Test the extension's functionality by navigating to various web pages and observing the detection capabilities. The extension should effectively identify and block malvertising content in real-time.
 
-###7. Contributing
+### 5. Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss any changes or improvements.
